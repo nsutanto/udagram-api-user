@@ -1,0 +1,9 @@
+export POSTGRES_USERNAME=nsutanto
+export POSTGRES_PASSWORD=nsutanto
+export POSTGRES_DATABASE=postgres
+export POSTGRES_HOST="dbproject3.cnafjj6fyxd7.us-east-2.rds.amazonaws.com"
+export AWS_BUCKET="project3-nsutanto-dev"
+export AWS_REGION="us-east-2"
+export AWS_PROFILE="default"
+export JWT_SECRET="hello"
+export URL="http://localhost:8100"
